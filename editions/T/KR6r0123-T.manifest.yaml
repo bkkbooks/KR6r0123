@@ -1,0 +1,208 @@
+canonical_identifier: bkk:krp/KR6r0123/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0123/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 遊方記抄
+  identifiers:
+    krp: KR6r0123
+    cbeta: T51n2089
+    cbeta_old_id: T51n2089
+    authorityid: CA0003813
+    json_key: T2089
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2089.xml
+    old_id: T51n2089
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0123_000-T.yaml, hash: 'sha256:e37a861eda096f7ff9f4c1e76cf4a00169fdd61a8321d6e9f3b8bb16a281fcf0'}
+  - {seq: 1, filename: KR6r0123_001-T.yaml, hash: 'sha256:13db70ed5d94fd792438f8a73aa08834dcf8ad04465cd6febd7c6ca119e1bd09'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0123_000-T.markers.yaml, hash: 'sha256:12a62524f991621a73559b61cb57d69fbd64a9f056e29580d157b1bced60ad62'}
+  - {seq: 1, role: markers, filename: assets/KR6r0123_001-T.markers.yaml, hash: 'sha256:29032c79f9c3d3b5ce62020e9d6a975c952e100cf179cd0e76e33c37ef244024'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 27852
+  label: 遊方記抄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-1
+    span:
+    - body
+    - 82
+    - 82
+  label: 1 徃五天竺國傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-2
+    span:
+    - body
+    - 6131
+    - 6131
+  label: 2 悟空入竺記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-3
+    span:
+    - body
+    - 9064
+    - 9064
+  label: 3 繼業西域行程
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-4
+    span:
+    - body
+    - 10622
+    - 10622
+  label: 4 梵僧指空禪師傳考
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-5
+    span:
+    - body
+    - 10652
+    - 10652
+  label: 1 西天提納薄陀尊者浮圖銘并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-6
+    span:
+    - body
+    - 14045
+    - 14045
+  label: 2 檜巖寺重剏記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-7
+    span:
+    - body
+    - 14872
+    - 14872
+  label: 5 西域僧鎖喃嚷結傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-8
+    span:
+    - body
+    - 16676
+    - 16676
+  label: 6 南天竺婆羅門僧正碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-9
+    span:
+    - body
+    - 17991
+    - 17991
+  label: 7 唐大和上東征傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-10
+    span:
+    - body
+    - 26598
+    - 26598
+  label: 初謁大和上二首并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-11
+    span:
+    - body
+    - 26841
+    - 26841
+  label: 五言傷大和上傳燈逝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-12
+    span:
+    - body
+    - 26900
+    - 26900
+  label: 五言傷大和上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-13
+    span:
+    - body
+    - 26963
+    - 26963
+  label: 五言傷大和上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-14
+    span:
+    - body
+    - 27022
+    - 27022
+  label: 五言因使日本願謁鑑真大和上已滅度不覲尊顏嗟而述懷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-15
+    span:
+    - body
+    - 27114
+    - 27114
+  label: 七言傷大和上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-16
+    span:
+    - body
+    - 27176
+    - 27176
+  label: 8 唐王玄策中天竺行記并唐百官撰西域志逸文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0123_T_001-mulu-17
+    span:
+    - body
+    - 27720
+    - 27720
+  label: 9 唐常愍遊天竺記逸文
+  type: mulu
+  level: 1
+hash: sha256:a7353df47b74d568940fad7d1a01482dd40a6dd2678e497447fe8b7626b4ea61
