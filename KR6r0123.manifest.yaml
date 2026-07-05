@@ -52,9 +52,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0123_000.yaml, hash: 'sha256:e37a861eda096f7ff9f4c1e76cf4a00169fdd61a8321d6e9f3b8bb16a281fcf0'}
-  - {seq: 1, filename: KR6r0123_001.yaml, hash: 'sha256:0283bbec48d2d911b58c35c13c1f6dca5949fbd49bb5d9c590ee7e82ad8ae10c'}
+  - {seq: 1, filename: KR6r0123_001.yaml, hash: 'sha256:13db70ed5d94fd792438f8a73aa08834dcf8ad04465cd6febd7c6ca119e1bd09'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0123_001.markers.yaml, hash: 'sha256:99429b25de297f43bd0eb64625896696f95a41caf05715b9f91a9d96e9d11c07'}
+  - {seq: 0, role: markers, filename: assets/KR6r0123_000.markers.yaml, hash: 'sha256:6813cb861a338489b368022ba138fcadf4684cfa35ca804d6ea37f0694133ac1'}
+  - {seq: 1, role: markers, filename: assets/KR6r0123_001.markers.yaml, hash: 'sha256:806b640cf27f8cb3d5a60b4c542d05445d0a594a58731cc33bd6c458825a2d1c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -236,7 +237,4 @@ table_of_contents:
   label: 9 唐常愍遊天竺記逸文
   type: mulu
   level: 1
-hash: sha256:299b3c31b958fc9dc7427433a586f82f96f65fd69b3b1e837a219f04692b67cd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:953c8f36c92cdd342499592b058a627d5f51d56c15e729cbbbf2cf1c3f485941
