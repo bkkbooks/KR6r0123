@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0123/v1
 canonical_location: https://kanripo.org/bkk/KR6r0123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 遊方記抄
   identifiers:
@@ -52,10 +52,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0123_000.yaml, hash: 'sha256:e37a861eda096f7ff9f4c1e76cf4a00169fdd61a8321d6e9f3b8bb16a281fcf0'}
-  - {seq: 1, filename: KR6r0123_001.yaml, hash: 'sha256:13db70ed5d94fd792438f8a73aa08834dcf8ad04465cd6febd7c6ca119e1bd09'}
+  - {seq: 1, filename: KR6r0123_001.yaml, hash: 'sha256:731fe03ab5c54290e52cafa4cd82fcec9fd83da6e69833f03228ad3972f7c925'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0123_000.markers.yaml, hash: 'sha256:6813cb861a338489b368022ba138fcadf4684cfa35ca804d6ea37f0694133ac1'}
-  - {seq: 1, role: markers, filename: assets/KR6r0123_001.markers.yaml, hash: 'sha256:806b640cf27f8cb3d5a60b4c542d05445d0a594a58731cc33bd6c458825a2d1c'}
+  - {seq: 1, role: markers, filename: assets/KR6r0123_001.markers.yaml, hash: 'sha256:84f2c46d976e97ba1042fd0fcf2eda51683a9b7d0fa44da05f424004a8d3ba3b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -237,4 +237,7 @@ table_of_contents:
   label: 9 唐常愍遊天竺記逸文
   type: mulu
   level: 1
-hash: sha256:953c8f36c92cdd342499592b058a627d5f51d56c15e729cbbbf2cf1c3f485941
+hash: sha256:3ba31b62e004e967ce02b3dc3bac2b926f829cc95666cd0648e2d1b619700240
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
